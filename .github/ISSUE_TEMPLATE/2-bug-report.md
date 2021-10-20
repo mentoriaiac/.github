@@ -1,5 +1,5 @@
 ---
-name: ":lady_beetle: Bug Report"
+name: ":bug: Bug Report"
 labels: bug
 about: Usado para reportar bugs no repositório
 ---
@@ -16,5 +16,5 @@ about: Usado para reportar bugs no repositório
 
 <!-- No DoD você coloca uma lista de entregáveis, que você imagina que o ticket não pode deixar de fazer antes de ser fechado. -->
 
- <!-- - [ ] lista de atividades -->
+ - [ ] lista de atividades
  <!-- - [ ] lista de atividades  -->
