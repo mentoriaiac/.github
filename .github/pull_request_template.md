@@ -24,7 +24,7 @@
 ## Como testar
 
 <!-- Passo a passo -->
-<!-- Se for pipeline centralizado, por favor crie um fork para utilizar o pipeline a partir do repositório origem desse PR -->
+<!-- Se for pipeline centralizado, por favor crie um fork para utilizar o pipeline a partir do repositório origem desse PR e coloque aqui o link do pipeline que foi executado sem falhas -->
 
 <!--
 Marque um `x` dentro de [ ] para os itens que você forneceu informação
